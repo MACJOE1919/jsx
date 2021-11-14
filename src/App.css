@@ -1,0 +1,11 @@
+.title {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  margin-right: 200px;
+}
+.img2 {
+  margin-left: 200px;
+}
